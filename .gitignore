@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+ENV/
+env/
+.env/
+tennis-rl/
+
+# Unity environment binaries & logs
+Tennis_Linux/
+Tennis_Linux_NoVis/
+Tennis_Windows_x86/
+Tennis_Windows_x86_64/
+Tennis.app/
+Soccer_Linux/
+Soccer_Linux_NoVis/
+Soccer_Windows_x86/
+Soccer_Windows_x86_64/
+Soccer.app/
+env/Tennis_Linux/
+env/Soccer_*/
+*.x86_64
+*.apk
+*.log
+logs/
+
+# Checkpoints
+checkpoints/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
